@@ -6,5 +6,5 @@ In this game you have a Player and Enemies (Bugs). The goal of the player is to 
 
 [![demo](./images/demo.gif)](https://github.com/HebaFahmi/frontend-nanodegree-arcade-game-master/blob/master/demo.gif)
 
-> [Check it live](http://brenopolanski.github.io/udacity-classic-arcade-game-clone/).
+> [Check it live](https://github.com/HebaFahmi/frontend-nanodegree-arcade-game-master/blob/master/demo.gif).
 
