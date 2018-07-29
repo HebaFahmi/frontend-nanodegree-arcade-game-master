@@ -40,6 +40,3 @@ In order to play the game properly, consider the following steps:
 
 English is the universal language nowadays, so please don't create or comment on issues using another language.
 
-## License
-
-[MIT License](http://brenopolanski.mit-license.org/) © Breno Polanski
