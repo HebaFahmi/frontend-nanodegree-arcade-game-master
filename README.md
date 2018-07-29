@@ -4,7 +4,7 @@ In this game you have a Player and Enemies (Bugs). The goal of the player is to 
 
 ## Demo
 
-[![demo](./images/demo.gif)](https://github.com/HebaFahmi/frontend-nanodegree-arcade-game-master/blob/master/demo.gif)
+[![demo](./images/demo.gif)](https://github.com/HebaFahmi/frontend-nanodegree-arcade-game-master/blob/master/demo.png)
 
 > [Check it live](https://github.com/HebaFahmi/frontend-nanodegree-arcade-game-master/blob/master/demo.gif).
 
